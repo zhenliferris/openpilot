@@ -1,3 +1,5 @@
+# I need comments to understand the purpose of this module
+# may be it related with time
 import os
 import subprocess
 from common.basedir import BASEDIR
